@@ -1,3 +1,4 @@
+<img width="226" height="120" alt="Screen_Recording_2026_11_27_152640" src="https://github.com/user-attachments/assets/3c0d5b7a-3507-471b-b6b9-ea25c4060b78" />
 # Verci Lite — animated lyrics for Spotify (Spicetify extension)
 
 A [Spicetify](https://spicetify.app) extension that shows synced lyrics lit **word by word** over an animated
