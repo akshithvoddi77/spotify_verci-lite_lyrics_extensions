@@ -19,3 +19,4 @@ A lightweight [Spicetify](https://spicetify.app/) extension for Spotify that dis
 2. Locate your Spicetify `Extensions` folder by running this command in your terminal:
    ```bash
    spicetify path userdata
+[verci-lite.js](https://github.com/user-attachments/files/35498191/verci-lite.js)
